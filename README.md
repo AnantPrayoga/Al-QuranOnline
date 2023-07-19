@@ -1,5 +1,12 @@
 AL-QURAN ONLINE
 
+Teknologi yang dipakai :
+1. Google Maps API
+2. API AL-QURAN : https://github.com/bachors/Al-Quran-ID-API
+3. DatePickerTimeline : https://github.com/101Loop/DatePickerTimeline
+4. Expansionpanel : https://github.com/florent37/ExpansionPanel
+
+HASIL :
 
 1. Tampilan Awal
 
